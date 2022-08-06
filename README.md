@@ -55,3 +55,15 @@ Start time: 3:00 pm
 Finish time: The next day
 
 Actual time needed to complete: day ++
+
+----
+
+## Name of feature: Advanced Topics
+
+Estimate of time needed to complete: 2 hour
+
+Start time: 9:00 pm
+
+Finish time: 9:30 pm
+
+Actual time needed to complete: 30 minutes
