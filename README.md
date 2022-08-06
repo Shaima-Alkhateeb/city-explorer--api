@@ -22,6 +22,12 @@
 
 ----
 
+## The web request-response cycle for lab 07
+
+Draw it with Qais Alsghe and Bayan Aljawawde
+
+![data-flow](./img/data-flow.jpg)
+
 ## Time Estimates
 
 ### Name of feature: Custom Servers with Node and Express
@@ -34,13 +40,11 @@ Finish time: The next day
 
 Actual time needed to complete: day ++
 
-## The web request-response cycle for lab 07
-
-Draw it with Qais Alsghe and Bayan Aljawawde
-
-![data-flow](./img/data-flow.jpg)
-
 ----
+
+## The web request-response cycle for lab 08
+
+![data-flow](./img/data-flow-day09.png)
 
 ## Name of feature: APIs
 
@@ -51,9 +55,3 @@ Start time: 3:00 pm
 Finish time: The next day
 
 Actual time needed to complete: day ++
-
-## The web request-response cycle for lab 08
-
-Draw it with Qais Alsghe and Bayan Aljawawde
-
-![data-flow](./img/data-flow-day08.png)
